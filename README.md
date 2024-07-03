@@ -1,20 +1,57 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Ethereum Integration Service
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## Introduction
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+The Ethereum Integration Service is a Python-based project designed to facilitate payments using Ethereum. This service calculates the value of Ethereum in USD and BRL and enables the sending and receiving of payments by integrating with the Ethereum blockchain.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Features
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+- Calculate Ethereum value in USD and BRL.
+- Send and receive payments through Ethereum.
+- Integration with the Ethereum blockchain for secure and reliable transactions.
+
+## Requirements
+
+- Python 3.12
+- `web3` library
+- `requests` library
+- `dotenv` library
+
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/ethereum-integration-service.git
+    cd ethereum-integration-service
+    ```
+
+2. **Create and activate a virtual environment:**
+
+    ```bash
+    python3.12 -m venv venv
+    source venv/bin/activate
+    ```
+
+3. **Install the required libraries:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Configure environment variables:**
+
+    Create a `.env` file in the root directory and add your Ethereum node URL and other necessary configurations:
+
+    ```env
+    ETHEREUM_NODE_URL=<Your Ethereum Node URL>
+    ```
+
+## Usage
+
+### Calculating Ethereum Value
+
+To calculate the value of Ethereum in USD and BRL, use the `calculate_value.py` script:
+
+```bash
+python calculate_value.py
