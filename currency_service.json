@@ -1,0 +1,173 @@
+[
+    {
+        "timestamp": "2024-07-02 20:22:54,174",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3420.54"
+    },
+    {
+        "timestamp": "2024-07-02 20:23:52,785",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3420.54"
+    },
+    {
+        "timestamp": "2024-07-02 20:25:15,438",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3420.54"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:02,259",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:13,359",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:14,017",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:14,376",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:14,626",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:14,828",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:14,829",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:22,171",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:22,172",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:27,208",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:27,209",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:32,243",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:32,243",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:37,278",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:37,279",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:42,334",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:42,334",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:47,379",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:47,379",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:52,413",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:52,413",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:40:57,453",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:40:57,453",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:41:02,494",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:41:02,494",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:41:07,535",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:41:07,536",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:41:12,969",
+        "level": "ERROR",
+        "message": "Failed to retrieve exchange rate for usd: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd"
+    },
+    {
+        "timestamp": "2024-07-02 20:41:12,970",
+        "level": "INFO",
+        "message": "Retrying in 5 seconds..."
+    },
+    {
+        "timestamp": "2024-07-02 20:41:18,051",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    },
+    {
+        "timestamp": "2024-07-02 20:41:43,330",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3424.24"
+    }
+]
+    

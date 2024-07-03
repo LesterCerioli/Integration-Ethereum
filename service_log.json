@@ -1,0 +1,52 @@
+[
+    {
+        "timestamp": "2024-07-02 20:49:04",
+        "level": "INFO",
+        "message": "Starting the exchange rate worker"
+    },
+    {
+        "timestamp": "2024-07-02 20:49:04",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3425.57"
+    },
+    {
+        "timestamp": "2024-07-02 20:49:04",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for brl: 19447.63"
+    },
+    {
+        "timestamp": "2024-07-02 20:49:04",
+        "level": "INFO",
+        "message": "USD Rate: 3425.57, BRL Rate: 19447.63"
+    },
+    {
+        "timestamp": "2024-07-02 20:50:04",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3425.57"
+    },
+    {
+        "timestamp": "2024-07-02 20:50:04",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for brl: 19447.63"
+    },
+    {
+        "timestamp": "2024-07-02 20:50:04",
+        "level": "INFO",
+        "message": "USD Rate: 3425.57, BRL Rate: 19447.63"
+    },
+    {
+        "timestamp": "2024-07-02 20:51:04",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for usd: 3425.57"
+    },
+    {
+        "timestamp": "2024-07-02 20:51:04",
+        "level": "INFO",
+        "message": "Successfully retrieved exchange rate for brl: 19447.63"
+    },
+    {
+        "timestamp": "2024-07-02 20:51:04",
+        "level": "INFO",
+        "message": "USD Rate: 3425.57, BRL Rate: 19447.63"
+    }
+]
